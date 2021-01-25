@@ -1,0 +1,15 @@
+name: "."
+title: "AJ Zekanoski"
+description: |
+  AJ Zekanoski
+output_dir: "docs"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+    - text: "Bonnie!"
+      href: bonnie.html
+output: distill::distill_article
+

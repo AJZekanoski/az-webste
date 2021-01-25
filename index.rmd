@@ -1,0 +1,21 @@
+---
+title: "AJ Zekanoski"
+image: "bonbon.jpg"
+links:
+  - label: LinkedIn
+    url: "https://linkedin.com/"
+  - label: Twitter
+    url: "https://twitter.com/"
+  - label: GitHub
+    url: "https://github.com/"
+  - label: Email
+    url: "mailto:email@email.com"
+output:
+  postcards::jolla
+  
+site: distill::distill_website
+---
+ 
+I am a partially trained Belgian Malinois living in Goleta. 
+Currently I work on yelling at birds and stealing food from Shelby's plate. I love talking about balls, 
+sticks, and how Ruben's dog Pluto is a grumpy old man who doesn't want to play enough.
