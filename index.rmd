@@ -1,6 +1,6 @@
 ---
 title: "AJ Zekanoski"
-image: "bonbon.jpg"
+image: "aj_pic.jpg"
 links:
   - label: LinkedIn
     url: "https://linkedin.com/"
@@ -16,6 +16,4 @@ output:
 site: distill::distill_website
 ---
  
-I am a partially trained Belgian Malinois living in Goleta. 
-Currently I work on yelling at birds and stealing food from Shelby's plate. I love talking about balls, 
-sticks, and how Ruben's dog Pluto is a grumpy old man who doesn't want to play enough.
+I am currently a second year Master's student at the Bren School of Environmental Science & Management. The bulk of my work involves waging humanity's hidden war against invasive wild pigs.
